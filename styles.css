@@ -1,5 +1,5 @@
 body{
-    background-image: url('https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif');
+    background-image: url('background/Doom-Eternal-Animated-Wallpaper-4K-Wallpaper-Engine.gif');
   }
   
   .titulo1{
@@ -9,11 +9,11 @@ body{
     border-style: double;
     border-color: green;
     padding: 10px;
-    letter-spacing: 15px;
+    letter-spacing: 5px;
     text-align: center;
     display: inline-block;
     position: relative;
-    left: 26%;
+    left: 10%;
     letter-spacing: 60px;
   }
   
@@ -164,9 +164,69 @@ body{
     padding: 5px;
     cursor: pointer;
   }
+
+  .garrysmod{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+
+  .battlefield3{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+
+  .justcause2{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+
+  .theflorest{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+
+  .undertales{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
   
   .texto1{
     color: rgb(58, 160, 58);
+    font-size: 45px;
+  }
+
+  .texto2{
+    color: rgb(63, 18, 224);
     font-size: 45px;
   }
   
