@@ -1,4 +1,6 @@
-
+body{
+  background-image: url(img/gif-background.gif);
+}
   
   .titulo1{
     text-shadow: 7px 7px 0 green;
