@@ -1,0 +1,228 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif');
+  }
+  
+  .titulo1{
+    text-shadow: 7px 7px 0 green;
+    color:chartreuse;
+    font-size: 70px;
+    border-style: double;
+    border-color: green;
+    padding: 10px;
+    letter-spacing: 15px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 26%;
+    letter-spacing: 60px;
+  }
+  
+  .borda1{
+    border-style: dotted;
+    border-color: green;
+  }
+  
+  .bettlfield1942{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .gtasanandreas{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .codmw4{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .farcry1{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .farcry3{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .postal2{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .halo1{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .cod2{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .lethalcomp{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .mdk2{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .saintsrow4{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .doom64{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .doom12{
+    font-size: 50px;
+    color: green;
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgba(30, 130, 76);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .texto1{
+    color: rgb(58, 160, 58);
+    font-size: 45px;
+  }
+  
+  .link{
+    font-size: 40px;
+    color: red;
+  }
+  
+  .br{
+    margin-bottom: 10%;
+  }
+  
+  .brlink{
+    margin-bottom: 5%;
+  }
+  
+  .canal{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    left: 94%;
+  }
+  
+  .twitch{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    left: 94%;
+    top: 6%;
+  }
+  
+  .tutorialfarcry3legendas{
+    font-size: 30px;
+    color: rgb(28, 3, 255);
+    background-color: #404040AB;
+    border-style:outset;
+    border-color: rgb(195, 0, 255);
+    display: inline-block;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .bin02{
+    width: 500px;
+    border-style: double;
+    border-color: rgb(140, 0, 255);
+  }
+  
+  .bin41{
+    width: 500px;
+    border-style: double;
+    border-color: rgb(140, 0, 255);
+  }
+  
+  .bin52{
+    width: 500px;
+    border-style: double;
+    border-color: rgb(140, 0, 255);
+  }
